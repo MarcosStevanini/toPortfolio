@@ -1,10 +1,10 @@
 <div align="center">
-  
-<!-- ![LinkedIn Banner (1)](https://user-images.githubusercontent.com/81394067/148012482-425fcb25-be07-47bf-ba01-3f77021e4d2d.png) -->
-
-## Olá, meu nome é Marcos Fernandes
  
-<p> Acadêmico do curso de Sistemas de Informação e atualmente focado em desenvolvimento Front-end, centrada em Javascript (React Native e ReactJS). 
+![LinkedIn Banner (1)](https://github.com/MarcosStevanini/toPortfolio/blob/master/src/assets/redme.png)
+
+## Olá, meu nome é Marcos Stevanini
+ 
+<p> Acadêmico do curso de Sistemas de Informação e atualmente focado em desenvolvimento Front-end, centrado em Javascript (React Native e ReactJS). 
 
 Gosto de participar de bootcamps, projetos criativos/agregadores, ouvir podcasts sobre o universo tech, passar meus conhecimentos para amigos/comunidade e trocar experiências.
 </p>
@@ -12,6 +12,7 @@ Gosto de participar de bootcamps, projetos criativos/agregadores, ouvir podcasts
 
 <br>
 
+[![Abrir com GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://marcosstevanini-congenial-meme-pw745xrvw7rh7rrr.github.dev/)
 
 <p align="left">
  ✉ Contato:
