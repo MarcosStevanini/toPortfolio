@@ -14,6 +14,7 @@ Gosto de participar de bootcamps, projetos criativos/agregadores, ouvir podcasts
 
 <br>
 
+[![Abrir com GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://marcosstevanini-congenial-meme-pw745xrvw7rh7rrr.github.dev/)
 
 <p align="left">
  ✉ Contato:
