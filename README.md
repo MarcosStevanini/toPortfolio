@@ -4,7 +4,7 @@
 
 ## Olá, meu nome é Marcos Fernandes
  
-<p> Acadêmico do curso de Sistemas de Informação e atualmente focado em desenvolvimento Front-end, centrada em Javascript (React Native e ReactJS). 
+<p> Acadêmico do curso de Sistemas de Informação e atualmente focado em desenvolvimento Front-end, centrado em Javascript (React Native e ReactJS). 
 
 Gosto de participar de bootcamps, projetos criativos/agregadores, ouvir podcasts sobre o universo tech, passar meus conhecimentos para amigos/comunidade e trocar experiências.
 </p>
