@@ -2,7 +2,7 @@
   
 <!-- ![LinkedIn Banner (1)](https://user-images.githubusercontent.com/81394067/148012482-425fcb25-be07-47bf-ba01-3f77021e4d2d.png) -->
 
-![LinkedIn Banner (1)]('./src/assets/redme.png')
+![LinkedIn Banner (1)](https://github.com/MarcosStevanini/toPortfolio/blob/master/src/assets/redme.png)
 
 ## Olá, meu nome é Marcos Fernandes
  
