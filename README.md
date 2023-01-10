@@ -25,7 +25,7 @@ Gosto de participar de bootcamps, projetos criativos/agregadores, ouvir podcasts
 </a>
 </div>
 <div>
-<p align="center">
+<p align="left">
 ☎️ Whatsapp:
 </p>
 
